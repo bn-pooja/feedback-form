@@ -9,8 +9,33 @@
 <body>
   <div class="container">
     <div class="card fade-in">
+      <div id="userInfo" style="text-align: right; margin-bottom: 20px;">
+        <span id="loggedInUser"></span>
+        <button id="logoutBtn" class="btn" style="margin-left: 10px; padding: 5px 10px; font-size: 12px;">Logout</button>
+      </div>
       <h1>Provide Your Feedback</h1>
       <form id="feedbackForm">
+        <div class="form-group">
+          <label for="classSelect">Class:</label>
+          <select id="classSelect" name="classSelect" required>
+            <option value="">Select Class</option>
+            <option value="Class A">Class A</option>
+            <option value="Class B">Class B</option>
+            <option value="Class C">Class C</option>
+            <option value="Class D">Class D</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="moduleSelect">Module:</label>
+          <select id="moduleSelect" name="moduleSelect" required>
+            <option value="">Select Module</option>
+            <option value="Module 1">Module 1</option>
+            <option value="Module 2">Module 2</option>
+            <option value="Module 3">Module 3</option>
+            <option value="Module 4">Module 4</option>
+            <option value="Module 5">Module 5</option>
+          </select>
+        </div>
         <div class="form-group">
           <label for="feedback">Feedback:</label>
           <textarea id="feedback" name="feedback" rows="10" required></textarea>

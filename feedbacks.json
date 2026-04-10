@@ -1,0 +1,48 @@
+[
+  {
+    "username": "test_student",
+    "feedback": "This is a great course with excellent teaching methods and clear explanations.",
+    "timestamp": "2026-04-10T18:01:03.069Z"
+  },
+  {
+    "username": "John Doe",
+    "feedback": "The teaching methods are excellent and the explanations are very clear. I appreciate the practical examples used in class.",
+    "timestamp": "2026-04-10T18:12:07.669Z"
+  },
+  {
+    "username": "Alice Johnson",
+    "feedback": "The teaching methods are excellent and the explanations are very clear. I really appreciate the practical examples used in class.",
+    "timestamp": "2026-04-10T18:19:55.983Z"
+  },
+  {
+    "username": "Alice Johnson",
+    "feedback": "The teaching methods are excellent and the explanations are very clear. I really appreciate the practical examples used in class.",
+    "timestamp": "2026-04-10T18:20:15.757Z"
+  },
+  {
+    "username": "nith",
+    "feedback": "class was interesting and more engaging.",
+    "timestamp": "2026-04-10T18:22:53.416Z"
+  },
+  {
+    "username": "Sarah Wilson",
+    "feedback": "The teaching methods are excellent and the examples really help understand complex concepts. Great class!",
+    "class": "Class A",
+    "module": "Module 3",
+    "timestamp": "2026-04-10T18:34:21.394Z"
+  },
+  {
+    "username": "nith",
+    "feedback": "I need a more explaination for this.",
+    "class": "Class A",
+    "module": "Module 2",
+    "timestamp": "2026-04-10T18:36:54.603Z"
+  },
+  {
+    "username": "nith",
+    "feedback": "I need an explaination for this module.",
+    "class": "Class B",
+    "module": "Module 1",
+    "timestamp": "2026-04-10T18:38:10.384Z"
+  }
+]

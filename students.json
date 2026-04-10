@@ -1,0 +1,22 @@
+{
+  "USN001": {
+    "name": "Alice Johnson",
+    "attendance": 85
+  },
+  "USN002": {
+    "name": "nith",
+    "attendance": 85
+  },
+  "USN003": {
+    "name": "chin",
+    "attendance": 67
+  },
+  "USN004": {
+    "name": "Sarah Wilson",
+    "attendance": 92
+  },
+  "USN005": {
+    "name": "Mike Brown",
+    "attendance": 65
+  }
+}
