@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Feedback Login</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="card fade-in">
+      <h1>Student Login</h1>
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="username">Username (Student Name):</label>
+          <input type="text" id="username" name="username" required disabled>
+        </div>
+        <div class="form-group">
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="password" required disabled>
+        </div>
+        <button type="submit" class="btn">Login</button>
+      </form>
+      <div id="errorMessage" class="error"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
